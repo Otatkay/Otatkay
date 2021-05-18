@@ -1,1 +1,1 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/Otatkay/github_header.png "Header")](https://avatars.githubusercontent.com/u/81679402?s=60&v=4)
+[![Header](https://raw.githubusercontent.com/Otatkay/Otatkay/github-header.png "Header")](https://github.com/Otatkay)
