@@ -6,8 +6,8 @@ Hi 👋, I'm Alex, aka Otatkay, a sunday's developer from Lyon, France :fr:
 # Tech & Tools
 
 # GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Otatkay&theme=blue-green&count_private=true&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otatkay&theme=blue-green&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Otatkay&theme=blue-green&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otatkay&theme=blue-green&count_private=true&show_icons=true" />
 
 
 
