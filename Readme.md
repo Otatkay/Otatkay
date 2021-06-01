@@ -1,12 +1,22 @@
 [![Header](https://raw.githubusercontent.com/Otatkay/Otatkay/main/github-header.png "Header")](https://github.com/Otatkay)
 
 # :sunrise_over_mountains: About me
+[![Linkedin Badge](https://img.shields.io/badge/-Otatkay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-leroy-9341b1123/)](https://www.linkedin.com/in/alexandre-leroy-9341b1123/)
+[![Gmail Badge](https://img.shields.io/badge/-alex.001@gmx.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alex.001@gmx.fr)](mailto:alex.001@gmx.fr)
+
 Hi 👋, I'm Alex, aka Otatkay, a Sunday's developer from Lyon, France :fr:
 
 Well, I mean, when I'm not climbing, or scouting, or playing the guitar, then I may be here to code and confront my knowledge to the "real world". Oh, by the way, did I mention I also have a real job ? :joy:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Otatkay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-leroy-9341b1123/)](https://www.linkedin.com/in/alexandre-leroy-9341b1123/)
-[![Gmail Badge](https://img.shields.io/badge/-alex.001@gmx.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alex.001@gmx.fr)](mailto:alex.001@gmx.fr)
+#### :musical_score: My Tracklist for Dev : 
+* :thumbsup: [Thylacine: "Lockdown Session"](https://www.youtube.com/watch?v=P7mc725w7bM)
+* :thumbsup: [Tash Sultana: "Mystik" and all songs from "Flow State" album](https://www.youtube.com/watch?v=1g9dnmQ4uwU)
+
+#### :sparkling_heart: My (Lockdown) hobbies 
+* :guitar: Guitar (Never played so much time than now)
+* :weight_lifting: Home Fitness (to be prepared for future climbing session! :sunrise_over_mountains:)
+* :sunrise_over_mountains: Climbing (when possible)
+* :game_die: Board Games (and remotely with friends, thanks to [Board Game Arena](https://boardgamearena.com/) )
 
 # :globe_with_meridians: Tech & Tools
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
