@@ -2,7 +2,7 @@
 
 # :sunrise_over_mountains: About me
 [![Linkedin Badge](https://img.shields.io/badge/-Otatkay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-leroy-9341b1123/)](https://www.linkedin.com/in/alexandre-leroy-9341b1123/)
-[![Gmail Badge](https://img.shields.io/badge/-alex.001@gmx.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alex.001@gmx.fr)](mailto:alex.001@gmx.fr)
+[![Gmail Badge](https://img.shields.io/badge/-otatkay@outlook.fr-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otatkay@outlook.fr)](mailto:otatkay@outlook.fr)
 
 Hi 👋, I'm Alex, aka Otatkay, a Sunday's developer from Lyon, France :fr:
 
